@@ -1,0 +1,8 @@
+Motionist // Claus Hjortgreen // Esbern Snares Gade 2, st. tv // 04/02/1971 // true // false // true
+Motionist // Cay Hardy // Dannebrogsade 20, 1 // 05/04/1999 // true // false // true
+Motionist // Lukas Nielsen // Minovej 2 // 09/06/1999 // true // false // true
+Competitive // Hanne Lindqvist // Kasper Stræde 5 // 12/11/1995 // Team 2 // Breast swimming // true // Kastrup Svømmehal Årlig Disciplin Konkurrence £ 3 £ 31.5 && Ørestad Street Swimsports 2018 £ 2 £ 28.7 && Stor kamp £ 5 £ 54.2 && Stor kamp 2 £ 4 £ 40.6 // Nikolaj
+Competitive // Niels Peter // Rådhusvej 102, st. tv // 11/04/1998 // Team 2 // Breast swimming // true // DGI Competition 2021 £ 3 £ 55.5 && Streetmekka Golden Globe £ 2 £ 26.7 && Fighters V2 £ 5 £ 25.2 && LETSGO CHAMPS 2 £ 4 £ 14.6 // Nikolaj
+Motionist // Hans Opus // Frederiksvej 10 // 24/05/2001 // true // false // true
+Motionist // Xi Ping // Klaus Hjortensgade 2 // 20/09/1997 // true // false // true
+Competitive // Lone // Roskildevej 69 // 19/04/1996 // None // Crawl // true // Horsens GymComp 2019 £ 3 £ 20.5 // None
